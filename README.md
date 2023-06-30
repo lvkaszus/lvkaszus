@@ -1,4 +1,4 @@
-lvkaszus™ // lvkaszusCore 2022-2023 // @lvkaszus
+lvkaszus™ // by @lvkaszus - 2022-2023
 
 - Website: https://lvkasz.us
 - Contact: https://lvkasz.us/contact (I accept English language!)
