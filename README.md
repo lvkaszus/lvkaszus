@@ -14,7 +14,6 @@ I run a couple of services you might like :)
 
 - <a href="https://search.lvkaszus.pl">lvkaszusSearch</a> - Privacy focused search engine based on SearXNG Project!
 - <a href="https://anontube.lvkasz.us">Invidious</a> - More private alternative to YouTube that works almost the same!
-- <a href="https://metrics.torproject.org/rs.html#details/C89C2F245112D4429C8D96CF46F720686D50A4AC">lvkaszusTorRelay</a> - I am supporting Tor Network Community by hosting a very fast Relay Node for others!
 - <a href="https://ask.lvkasz.us">Ask @lvkaszus!</a> - You can ask me anonymous question there, check sometimes for my response on that page!
 
 I am planning to host some more things very soon! (You can send me an idea of course if you want 😄)
