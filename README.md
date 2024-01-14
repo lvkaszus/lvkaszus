@@ -6,7 +6,7 @@
 - About Me: https://lvkasz.us/about_me
 - Contact: https://lvkasz.us/contact (I accept English language!)
 - PGP: https://lvkasz.us/pgp
-
+- Anonymous questions: https://ask.lvkasz.us
 
 ## What I am actually hosting?
 
@@ -14,7 +14,5 @@ I run a couple of services you might like :)
 
 - <a href="https://search.lvkaszus.pl">lvkaszusSearch</a> - Privacy focused search engine based on SearXNG Project!
 - <a href="https://4get.lvkaszus.pl">lvkaszus4Get</a> - Another privacy focused search engine based on 4get Project!
-- <a href="https://anontube.lvkaszus.pl">Invidious</a> - More private alternative to YouTube that works almost the same!
-- <a href="https://ask.lvkasz.us">Ask @lvkaszus!</a> - You can ask me anonymous question there, check sometimes for my response on that page!
 
 I am planning to host some more things very soon! (You can send me an idea of course if you want 😄)
