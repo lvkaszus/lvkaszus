@@ -7,12 +7,4 @@
 - Contact: https://lvkasz.us/contact (I accept English language!)
 - PGP: https://lvkasz.us/pgp
 - Anonymous questions: https://ask.lvkasz.us
-
-## What I am actually hosting?
-
-I run a couple of services you might like :)
-
-- <a href="https://search.lvkaszus.pl">lvkaszusSearch</a> - Privacy focused search engine based on SearXNG Project!
-- <a href="https://4get.lvkaszus.pl">lvkaszus4Get</a> - Another privacy focused search engine based on 4get Project!
-
-I am planning to host some more things very soon! (You can send me an idea of course if you want 😄)
+  
