@@ -1,6 +1,6 @@
-# lvkaszus™ // by @lvkaszus - 2022-2023
+# Łukasz Lebiedziński - @lvkaszus // 2022-2024
 
-17 years old IT Specialist, Linux enthusiast and "Junior" Developer in Python/React born and living in 🇵🇱 Poland. Big fan of open source and privacy focused projects. I also like networking and hardware stuff 😸
+18 years old IT Specialist, Linux enthusiast and "Junior" Developer in Python/React born and living in 🇵🇱 Poland. Big fan of open source and privacy focused projects. I also like networking and hardware stuff 😸
 
 - My Personal Website: https://lvkasz.us
 - About Me: https://lvkasz.us/about_me
