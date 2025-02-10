@@ -1,4 +1,4 @@
-# Łukasz Lebiedziński - @lvkaszus // 2022-2024
+# Łukasz Lebiedziński - @lvkaszus // 2022-2025
 
 lvkaszus (my real name is Łukasz Lebiedziński) is an 18 years old IT Specialist, Linux enthusiast and "Junior" Developer in Python/React born and living in 🇵🇱 Poland. Big fan of open source and privacy focused projects. I also like networking and hardware stuff 😸
 
